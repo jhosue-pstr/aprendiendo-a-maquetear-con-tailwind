@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cuadrados{
+    background-color: red;
+    font-weight: bold;
+    font-size: 30px;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
